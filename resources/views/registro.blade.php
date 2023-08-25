@@ -13,7 +13,7 @@
 <body>
    
     <div class="container-form register">
-        <div class="information">
+        <!-- <div class="information">
             <div class="info-clilds">
                 <h2>Te Damos la Bienvenida</h2>
                 
@@ -23,6 +23,13 @@
                 <br><br>
                 <a href="{{route('home')}}" >Regresar</a>
             </div>
+        </div> -->
+
+        <div class="registro">
+            <div>
+                class=
+            </div>
+
         </div>
         <div class="form-information">
             <div class="form-information-childs">
